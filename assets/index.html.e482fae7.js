@@ -1,0 +1,1 @@
+import{_ as e,V as t,W as n,X as s}from"./framework.26f23a49.js";const _={},c=s("p",null,"这里是 Island 的一些随笔，后续被整理进博客中。",-1),o=[c];function a(l,r){return t(),n("div",null,o)}const i=e(_,[["render",a],["__file","index.html.vue"]]);export{i as default};

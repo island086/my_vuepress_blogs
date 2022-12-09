@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ad78213","path":"/zh/encrypted/","title":"加密","lang":"en-US","frontmatter":{"title":"加密","blog":{"type":"type","key":"encrypted"},"layout":"Blog"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null}');export{e as data};
