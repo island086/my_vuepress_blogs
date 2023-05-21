@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-555df40d","path":"/jp/star/","title":"コレクション","lang":"en-US","frontmatter":{"title":"コレクション","index":false,"feed":false,"sitemap":false,"blog":{"type":"type","key":"star"},"layout":"BlogType"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

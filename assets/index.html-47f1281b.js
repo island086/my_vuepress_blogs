@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-53bb6bfe","path":"/jp/timeline/","title":"タイムライン","lang":"en-US","frontmatter":{"title":"タイムライン","index":false,"feed":false,"sitemap":false,"blog":{"type":"type","key":"timeline"},"layout":"Timeline"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6a37bb28","path":"/zh/note/%E9%9D%A2%E8%AF%95%E5%A4%8D%E4%B9%A0/","title":"面试复习","lang":"zh-CN","frontmatter":{"title":"面试复习","index":false,"seo":false},"headers":[],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.05,"words":15},"filePathRelative":"zh/note/面试复习/README.md"}');export{e as data};

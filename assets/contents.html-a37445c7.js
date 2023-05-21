@@ -1,0 +1,1 @@
+import{a1 as t,a2 as n,a3 as c,a4 as e}from"./framework-b045dc94.js";const o={},s=e("ul",null,[e("li")],-1),a=[s];function _(l,r){return n(),c("div",null,a)}const d=t(o,[["render",_],["__file","contents.html.vue"]]);export{d as default};
